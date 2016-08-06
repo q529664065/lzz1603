@@ -14,6 +14,7 @@
 		8836C78B1D55922000017C05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8836C78A1D55922000017C05 /* Assets.xcassets */; };
 		8836C78E1D55922000017C05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8836C78C1D55922000017C05 /* LaunchScreen.storyboard */; };
 		885BD8A21D55B8040044FB5C /* MainTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 885BD8A11D55B8040044FB5C /* MainTabBarViewController.m */; };
+		BC06CB411D55C7CC006F056B /* RootTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BC06CB401D55C7CC006F056B /* RootTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		8836C78F1D55922000017C05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		885BD8A01D55B8040044FB5C /* MainTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTabBarViewController.h; sourceTree = "<group>"; };
 		885BD8A11D55B8040044FB5C /* MainTabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTabBarViewController.m; sourceTree = "<group>"; };
+		BC06CB3F1D55C7CC006F056B /* RootTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootTableViewCell.h; sourceTree = "<group>"; };
+		BC06CB401D55C7CC006F056B /* RootTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				8836C7851D55922000017C05 /* ViewController.m */,
 				885BD8A01D55B8040044FB5C /* MainTabBarViewController.h */,
 				885BD8A11D55B8040044FB5C /* MainTabBarViewController.m */,
+				BC06CB3F1D55C7CC006F056B /* RootTableViewCell.h */,
+				BC06CB401D55C7CC006F056B /* RootTableViewCell.m */,
 				8836C7871D55922000017C05 /* Main.storyboard */,
 				8836C78A1D55922000017C05 /* Assets.xcassets */,
 				8836C78C1D55922000017C05 /* LaunchScreen.storyboard */,
@@ -158,6 +163,7 @@
 				885BD8A21D55B8040044FB5C /* MainTabBarViewController.m in Sources */,
 				8836C7831D55922000017C05 /* AppDelegate.m in Sources */,
 				8836C7801D55922000017C05 /* main.m in Sources */,
+				BC06CB411D55C7CC006F056B /* RootTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
